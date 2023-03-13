@@ -2,7 +2,7 @@
 
 	"NetworkAds" : "applovin",
 
-	"newAppStatus" : "off",
+	"newAppStatus" : "on",
 
 	"appPackage" : "com.kiloo.subwaysurf",
 	"apiUrl" : "http://admin.flixprobd.com/api/"
