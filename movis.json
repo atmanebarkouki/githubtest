@@ -1,7 +1,6 @@
 {
-     "NetworkAds" : "applovin",
-     "newAppStatus" : "off",
-     "appPackage" : "com.kiloo.subwaysurf",
-     "apiUrl" : "https://theactualpanel.motv.top/api/"
- 
+    "apiUrl" : "https://admin.gomovies.ma/api/",
+"pushUpdate" : "off",
+"newPackage" : "",
+    "NetworkAds" : "applovin"
 }
