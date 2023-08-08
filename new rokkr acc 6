@@ -1,6 +1,6 @@
 {
     "apiUrl" : "https://admin.gomovies.ma/api/",
-"pushUpdate" : "off",
-"newPackage" : "",
+"pushUpdate" : "on",
+"newPackage" : "com.orionmoviesstream.tvmoviesorion",
     "NetworkAds" : "applovin"
 }
