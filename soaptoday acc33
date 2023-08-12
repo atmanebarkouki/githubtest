@@ -1,5 +1,5 @@
 {
-    "apiUrl" : "https://admin.gomovies.ma/apiIII/",
+    "apiUrl" : "https://admin.gomovies.ma/api/",
 "pushUpdate" : "off",
 "newPackage" : "",
     "NetworkAds" : "applovin"
