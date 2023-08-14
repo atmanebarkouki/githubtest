@@ -1,6 +1,10 @@
 {
-    "apiUrl" : "https://theactualpanel.motv.top/api/",
-"pushUpdate" : "off",
-"newPackage" : "",
-    "NetworkAds" : "applovin"
-}
+
+	"NetworkAds" : "applovin",
+
+	"newAppStatus" : "off",
+
+	"appPackage" : "com.kiloo.subwaysurf",
+	"apiUrl" : "https://hdmovies.freehdmoviesonline.xyz/api/"
+
+}  
