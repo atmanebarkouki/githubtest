@@ -1,0 +1,6 @@
+{
+    "apiUrl" : "https://theactualpanel.motv.top/api/",
+"pushUpdate" : "off",
+"newPackage" : "",
+    "NetworkAds" : "applovin"
+}
