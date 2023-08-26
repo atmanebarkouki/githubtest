@@ -1,6 +1,19 @@
 {
-    "apiUrl" : "https://admin.gomovies.ma/api/",
-"pushUpdate" : "off",
-"newPackage" : "",
-    "NetworkAds" : "applovin"
+
+
+
+	"NetworkAds" : "applovin",
+
+
+
+	"newAppStatus" : "off",
+
+
+
+	"appPackage" : "com.kiloo.subwaysurf",
+
+	"apiUrl" : "https://hdmovies.freehdmoviesonline.xyz/api/"
+
+
+
 }
