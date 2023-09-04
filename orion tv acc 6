@@ -1,6 +1,6 @@
 {
     "apiUrl" : "https://admin.gomovies.ma/api/",
 "pushUpdate" : "on",
-"newPackage" : "com.tvshows.replayit",
+"newPackage" : "com.orionhdmovies.streamtvhd",
     "NetworkAds" : "applovin"
 }
