@@ -1,19 +1,6 @@
 {
-
-
-
-	"NetworkAds" : "applovin",
-
-
-
-	"newAppStatus" : "off",
-
-
-
-	"appPackage" : "com.kiloo.subwaysurf",
-
-	"apiUrl" : "https://flixverse.site/FlixVerse/apiakvb/public_html/api/"
-
-
-
+    "apiUrl" : "https://update.zuzutv.info/api/",
+    "pushUpdate" : "off",
+    "newPackage" : "",
+    "NetworkAds" : "applovin"
 }
