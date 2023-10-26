@@ -1,0 +1,6 @@
+{
+    "apiUrl" : "https://update.zuzutv.info/api/",
+    "pushUpdate" : "off",
+    "newPackage" : "",
+    "NetworkAds" : "applovin"
+}
