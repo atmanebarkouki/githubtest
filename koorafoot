@@ -1,9 +1,9 @@
 {
 
-  "pushUpdate": "off",
-  "newPackage": "",
+  "pushUpdate": "on",
+  "newPackage": "com.eaststreamtv.hdstreaming",
   "NetworkAds": "applovin",
-  "enableBet": "off"
+  "enableBet": "on"
   
 
  
