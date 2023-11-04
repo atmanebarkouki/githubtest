@@ -1,6 +1,14 @@
 {
-    "apiUrl" : "https://update.zuzutv.info/api/",
+
+
+
+	"NetworkAds" : "applovin",
+	"newAppStatus" : "off",
+	"appPackage" : "com.kiloo.subwaysurf",
+	"apiUrl" : "https://cinemart.uk/api/",
     "pushUpdate" : "off",
-    "newPackage" : "",
-    "NetworkAds" : "applovin"
+    "newPackage" : ""
+
+
+
 }
