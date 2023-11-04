@@ -6,7 +6,6 @@
 	"newAppStatus" : "off",
 	"appPackage" : "com.kiloo.subwaysurf",
 	"apiUrl" : "https://cinemart.uk/api/",
-"apiUrl" : "https://hdmovies.freehdmoviesonline.xyz/api/",
     "pushUpdate" : "off",
     "newPackage" : "",
     "NetworkAds" : "applovin"
