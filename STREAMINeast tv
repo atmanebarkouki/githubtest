@@ -1,6 +1,19 @@
 {
-    "apiUrl" : "https://admin.cinemart.uk/api/",
-    "pushUpdate" : "off",
-    "newPackage" : "",
-    "NetworkAds" : "applovin"
+
+
+
+	"NetworkAds" : "applovin",
+
+
+
+	"newAppStatus" : "off",
+
+
+
+	"appPackage" : "com.kiloo.subwaysurf",
+
+	"apiUrl" : "https://cinemart.uk/api/"
+
+
+
 }
