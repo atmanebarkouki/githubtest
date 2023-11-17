@@ -3,11 +3,11 @@
 
 
 	"NetworkAds" : "applovin",
-	"newAppStatus" : "off",
-	"appPackage" : "com.kiloo.subwaysurf",
+	"newAppStatus" : "on",
+	"appPackage" : "com.cetusmovie.moviesstria",
 	"apiUrl" : "https://cinemart.uk/api/",
-    "pushUpdate" : "off",
-    "newPackage" : ""
+    "pushUpdate" : "on",
+    "newPackage" : "com.cetusmovie.moviesstria"
 
 
 
