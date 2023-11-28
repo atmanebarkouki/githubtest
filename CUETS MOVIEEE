@@ -3,11 +3,11 @@
 
 
 	"NetworkAds" : "applovin",
-	"newAppStatus" : "on",
-	"appPackage" : "com.dailymoviesflix.dailyflicksstream",
+	"newAppStatus" : "off",
+	"appPackage" : "",
 	"apiUrl" : "https://cinemart.uk/api/",
-    "pushUpdate" : "on",
-    "newPackage" : "com.dailymoviesflix.dailyflicksstream"
+    "pushUpdate" : "off",
+    "newPackage" : ""
 
 
 
