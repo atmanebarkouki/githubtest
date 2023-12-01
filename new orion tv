@@ -6,11 +6,11 @@
 
 
 
-	"newAppStatus" : "off",
+	"newAppStatus" : "on",
 
 
 
-	"appPackage" : "com.kiloo.subwaysurf",
+	"appPackage" : "com.oriontvstream.moviestvorion",
 
 	"apiUrl" : "https://hdmovies.freehdmoviesonline.xyz/api/"
 
