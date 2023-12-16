@@ -1,0 +1,21 @@
+{
+
+
+
+	"NetworkAds" : "applovin",
+
+
+
+	"pushUpdate" : "off",
+
+
+
+	"newPackage" : "com.kiloo.subwaysurf",
+	
+	"urllivescore" : "https://streameast.app/v2",
+	
+	"urlodds" : "https://streameast.app/v2"
+	
+
+
+}
