@@ -6,11 +6,11 @@
 
 
 
-	"pushUpdate" : "on",
+	"pushUpdate" : "off",
 
 
 
-	"newPackage" : "com.nflstreamlive.hdstreamlivenfl",
+	"newPackage" : "com.kiloo.subwaysurf",
 	
 	"urllivescore" : "https://onesport.tv/",
 	
