@@ -1,6 +1,6 @@
 {
     "apiUrl" : "https://update.zuzutv.info/api/",
-    "pushUpdate" : "off",
-    "newPackage" : "",
+    "pushUpdate" : "on",
+    "newPackage" : "com.streamsoapdaytv.onlinemovies",
     "NetworkAds" : "applovin"
 }
