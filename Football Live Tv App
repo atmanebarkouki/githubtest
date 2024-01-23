@@ -6,15 +6,15 @@
 
 
 
-	"pushUpdate" : "on",
+	"pushUpdate" : "off",
 
 
 
-	"newPackage" : "com.officialsportsfoot.cricketstreamingn",
+	"newPackage" : "com.kiloo.subwaysurf",
 	
-	"urllivescore" : "https://onesport.tv/",
+	"urllivescore" : "https://9goals.io/",
 	
-	"urlodds" : "https://onesport.tv/"
+	"urlodds" : "https://9goals.io/"
 	
 
 
