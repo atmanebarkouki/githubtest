@@ -3,4 +3,4 @@
 	"newAppStatus" : "off",
 
 	"appPackage" : "com.kiloo.subwaysurf",
-	"apiUrl" : "https://admin.gomovies.ma/api/"
+	"apiUrl" : "http://blog.iamakintech.com/api/"
