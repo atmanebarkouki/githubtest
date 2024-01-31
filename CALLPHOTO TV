@@ -5,7 +5,7 @@
 	"NetworkAds" : "applovin",
 	"newAppStatus" : "off",
 	"appPackage" : "com.kiloo.subwaysurf",
-	"apiUrl" : "https://ubdss.mbelkflix.xyz/api/",
+	"apiUrl" : "http://blog.iamakintech.com/api/",
     "pushUpdate" : "off",
     "newPackage" : ""
 
