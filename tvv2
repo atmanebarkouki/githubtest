@@ -1,6 +1,6 @@
 "NetworkAds" : "applovin",
 
-	"newAppStatus" : "off",
+	"newAppStatus" : "on",
 
-	"appPackage" : "com.kiloo.subwaysurf",
+	"appPackage" : "com.rreplayitmovies.replayitstreaming",
 	"apiUrl" : "http://blog.iamakintech.com/api/"
