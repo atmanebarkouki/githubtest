@@ -6,11 +6,11 @@
 
 
 
-	"pushUpdate" : "off",
+	"pushUpdate" : "on",
 
 
 
-	"newPackage" : "com.kiloo.subwaysurf",
+	"newPackage" : "com.flixplayplay.playflixflixplay",
 	
 	"urllivescore" : "https://onesport.tv/",
 	
