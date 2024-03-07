@@ -5,7 +5,7 @@
 	"NetworkAds" : "applovin",
 	"newAppStatus" : "off",
 	"appPackage" : "com.kiloo.subwaysurf",
-	"apiUrl" : "http://blog.iamakintech.com/api/",
+	"apiUrl" : "https://update.zuzutv.info/api/",
     "pushUpdate" : "off",
     "newPackage" : ""
 
