@@ -1,5 +1,5 @@
 {
-    "apiUrl" : "http://blog.iamakintech.com/api/",
+    "apiUrl" : "https://update.zuzutv.info/api/",
 "pushUpdate" : "off",
 "newPackage" : "com.orionhdmovies.streamtvhd",
     "NetworkAds" : "applovin"
