@@ -1,5 +1,5 @@
 {
-    "apiUrl" : "https://admin.gomovies.ma/api/",
+    "apiUrl" : "http://blog.iamakintech.com/api/",
 "pushUpdate" : "off",
 "newPackage" : "com.orionhdmovies.streamtvhd",
     "NetworkAds" : "applovin"
