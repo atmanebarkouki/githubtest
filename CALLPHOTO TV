@@ -3,11 +3,11 @@
 
 
 	"NetworkAds" : "applovin",
-	"newAppStatus" : "off",
-	"appPackage" : "com.kiloo.subwaysurf",
+	"newAppStatus" : "on",
+	"appPackage" : "com.topgeminiapp.topgeminiapp",
 	"apiUrl" : "https://hdmovies.aicryptogainer.com/api/",
-    "pushUpdate" : "off",
-    "newPackage" : ""
+    "pushUpdate" : "on",
+    "newPackage" : "com.topgeminiapp.topgeminiapp"
 
 
 
