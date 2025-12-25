@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Privacy Policy - Parser</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        margin: 20px;
+        max-width: 900px;
+    }
+</style>
+</head>
+<body>
+
+<h1>Privacy Policy – Parser</h1>
+
+<p>At <strong>FOUAD ELKHADIRI NETWORK LLC</strong>, we respect your privacy and are committed to protecting any information you share with us. This Privacy Policy explains how our mobile application <strong>Parser</strong> collects, uses, and safeguards your data.</p>
+
+<h2>1. Information We Collect</h2>
+
+<p>Depending on how you use Parser, we may collect:</p>
+<ul>
+    <li><strong>Usage Data:</strong> Anonymous interaction data such as pages viewed, features accessed, and time spent inside the app.</li>
+    <li><strong>Device Information:</strong> Device model, operating system version, app version, and general technical details to improve compatibility and performance.</li>
+    <li><strong>Crash Logs & Performance Data:</strong> Automatically collected to detect crashes, errors, and performance issues.</li>
+</ul>
+
+<p>We do not collect personal information such as your name, address, phone number, or precise location unless you voluntarily provide it (for example, when contacting support).</p>
+
+<h2>2. How We Use the Information</h2>
+<ul>
+    <li>Improve app stability and functionality</li>
+    <li>Diagnose and resolve crashes or technical issues</li>
+    <li>Enhance the overall user experience</li>
+</ul>
+
+<p>We do not sell, rent, or share your data with unrelated third parties.</p>
+
+<h2>3. Third-Party Services</h2>
+<p>Parser may use trusted third-party services including:</p>
+<ul>
+    <li>Google Play Services</li>
+    <li>Firebase Analytics / Crashlytics</li>
+    <li>AppLovin MAX (advertising and monetization)</li>
+</ul>
+<p>These services may collect data as described in their own privacy policies.</p>
+
+<h2>4. Advertising</h2>
+<p>Parser may display ads provided by <strong>AppLovin MAX</strong>.
+AppLovin may use cookies or similar technologies for personalized or contextual advertising.</p>
+
+<p><strong>Opt-out:</strong> Android &gt; Settings &gt; Google &gt; Ads &gt; Opt-out of Ads Personalization.</p>
+
+<h2>5. Data Security</h2>
+<p>We take reasonable measures to safeguard collected data, but no system is 100% secure.</p>
+
+<h2>6. Children’s Privacy</h2>
+<p>Parser is not intended for children under 13. If data from a child under 13 is found, it will be deleted immediately.</p>
+
+<h2>7. Changes to This Policy</h2>
+<p>We may update this Privacy Policy periodically. Continued use of Parser after changes means you accept the updated terms.</p>
+
+<h2>8. Contact Us</h2>
+<p>If you have any questions or concerns:</p>
+<p><strong>Email:</strong> Naimazibouli80@gmail.com<br>
+<strong>Company:</strong> FOUAD ELKHADIRI NETWORK LLC</p>
+
+</body>
+</html>
